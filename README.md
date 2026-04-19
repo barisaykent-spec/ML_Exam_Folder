@@ -1,51 +1,27 @@
 # ML Exam Folder
 
-Bu repo, Makine Ogrenmesi ara sinav odevi icin takip ve teslim amaciyla hazirlandi.
+Bu repo, Makine Ogrenmesi ara sinav odevini adim adim takip etmek ve teslim surecini duzenli tutmak icin olusturuldu.
 
-## Repo Yapisi
+## Bu repoda ne var?
 
-- `notebooks/`: Colab veya Jupyter notebook dosyalari
-- `data/`: Gerekirse kaydedilen ara veri dosyalari
-- `figures/`: Grafik ve gorseller
-- `reports/`: Word raporu icin yardimci dosyalar veya export ciktisi
-- `src/`: Tekrar kullanilabilir yardimci kodlar
+- `notebooks/ml_exam_starter.ipynb`: Odevin ana calisma dosyasi
+- `figures/`: Notebooktan kaydedilecek grafikler
+- `CHECKLIST.md`: Odev maddelerini takip etmek icin kontrol listesi
+- `requirements.txt`: Gerekli Python kutuphaneleri
 
-## Odev Kapsami
-
-Bu odevde su basliklar tamamlanacak:
+## Odevde yapilacak ana basliklar
 
 1. Veri setinin yuklenmesi
 2. Veri kalite kontrolleri
-3. Kesifsel veri analizi (EDA)
+3. EDA
 4. Scaling
-5. Train/validation/test bolunmesi
-6. PCA ve LDA ile boyut indirgeme
-7. 15 farkli modelin egitimi
-8. Validation performanslarinin karsilastirilmasi
-9. En iyi modelin test uzerinde degerlendirilmesi
-10. SHAP ile aciklanabilirlik analizi
+5. Train-validation-test ayirma
+6. PCA ve LDA
+7. Modellerin kurulmasi
+8. Validation sonuclarinin karsilastirilmasi
+9. En iyi modelin test performansi
+10. SHAP analizi
 
-## Baslangic Adimlari
+## Calisma notu
 
-1. Ortami kur:
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Notebook'u ac:
-
-`notebooks/ml_exam_starter.ipynb`
-
-3. Notebook icindeki bolumleri sirasiyla doldur.
-
-## Teslim Icin Hedef Dosyalar
-
-- Notebook
-- Grafikler
-- Validation karsilastirma tablosu
-- En iyi modelin test sonuclari
-- Confusion matrix ve ROC grafikleri
-- SHAP ciktilari
-- Word raporu
-- GitHub repo linki
+Bu repo tek seferde bitmis bir proje olarak degil, odevin gelisimini duzenli sekilde gostermek icin kullanilmaktadir.
