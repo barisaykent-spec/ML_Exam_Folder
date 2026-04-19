@@ -5,7 +5,9 @@ Bu repo, Makine Ogrenmesi ara sinav odevini adim adim takip etmek ve teslim sure
 ## Bu repoda ne var?
 
 - `notebooks/ml_exam_starter.ipynb`: Odevin ana calisma dosyasi
+- `notebooks/01_breast_cancer_baslangic.ipynb`: Veri setini tanimak icin baslangic notebook'u
 - `figures/`: Notebooktan kaydedilecek grafikler
+- `BASIT_KULLANIM_NOTLARI.md`: Temel notebook komutlari icin kisa rehber
 - `CHECKLIST.md`: Odev maddelerini takip etmek icin kontrol listesi
 - `requirements.txt`: Gerekli Python kutuphaneleri
 
