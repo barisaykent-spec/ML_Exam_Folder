@@ -1,45 +1,45 @@
-# Odev Kontrol Listesi
+# Ödev Kontrol Listesi
 
-## 1. Veri Hazirlama
+## 1. Veri Hazırlama
 
-- [ ] Veri seti secildi
-- [ ] `X` ve `y` ayrildi
-- [ ] DataFrame olusturuldu
-- [ ] Ilk 5 satir gosterildi
+- [ ] Veri seti seçildi
+- [ ] `X` ve `y` ayrıldı
+- [ ] DataFrame oluşturuldu
+- [ ] İlk 5 satır gösterildi
 
 ## 2. Veri Kalitesi ve EDA
 
 - [ ] Missing value kontrol edildi
-- [ ] Outlier analizi yapildi
-- [ ] Dtype bilgileri gosterildi
-- [ ] Temel istatistikler cikarildi
-- [ ] Korelasyon heatmap cizildi
-- [ ] Boxplotlar yorumlandi
+- [ ] Outlier analizi yapıldı
+- [ ] Dtype bilgileri gösterildi
+- [ ] Temel istatistikler çıkarıldı
+- [ ] Korelasyon heatmap çizildi
+- [ ] Boxplotlar yorumlandı
 
-## 3. On Isleme ve Donusum
+## 3. Ön İşleme ve Dönüşüm
 
-- [ ] Scaling yapildi
-- [ ] Train-validation-test ayrimi yapildi
-- [ ] PCA uygulandi
-- [ ] LDA uygulandi
+- [ ] Scaling yapıldı
+- [ ] Train-validation-test ayrımı yapıldı
+- [ ] PCA uygulandı
+- [ ] LDA uygulandı
 
 ## 4. Modeller
 
 - [ ] 5 model ham veri ile denendi
 - [ ] 5 model PCA verisi ile denendi
 - [ ] 5 model LDA verisi ile denendi
-- [ ] Validation sonuclari tabloda toplandi
+- [ ] Validation sonuçları tabloda toplandı
 
-## 5. Final Degerlendirme
+## 5. Final Değerlendirme
 
-- [ ] En iyi model secildi
-- [ ] Test performansi hesaplandi
-- [ ] Confusion matrix cizildi
-- [ ] ROC curve cizildi
-- [ ] SHAP analizi tamamlandi
+- [ ] En iyi model seçildi
+- [ ] Test performansı hesaplandı
+- [ ] Confusion matrix çizildi
+- [ ] ROC curve çizildi
+- [ ] SHAP analizi tamamlandı
 
 ## 6. Teslim
 
-- [ ] Notebook duzenlendi
-- [ ] Word raporu hazirlandi
-- [ ] GitHub repo guncellendi
+- [ ] Notebook düzenlendi
+- [ ] Word raporu hazırlandı
+- [ ] GitHub repo güncellendi
