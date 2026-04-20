@@ -20,8 +20,8 @@
 
 - [x] Scaling yapıldı
 - [x] Train-validation-test ayrımı yapıldı
-- [ ] PCA uygulandı
-- [ ] LDA uygulandı
+- [x] PCA uygulandı
+- [x] LDA uygulandı
 
 ## 4. Modeller
 
