@@ -2,19 +2,19 @@
 
 ## 1. Veri Hazırlama
 
-- [ ] Veri seti seçildi
-- [ ] `X` ve `y` ayrıldı
-- [ ] DataFrame oluşturuldu
-- [ ] İlk 5 satır gösterildi
+- [x] Veri seti seçildi
+- [x] `X` ve `y` ayrıldı
+- [x] DataFrame oluşturuldu
+- [x] İlk 5 satır gösterildi
 
 ## 2. Veri Kalitesi ve EDA
 
-- [ ] Missing value kontrol edildi
-- [ ] Outlier analizi yapıldı
-- [ ] Dtype bilgileri gösterildi
-- [ ] Temel istatistikler çıkarıldı
-- [ ] Korelasyon heatmap çizildi
-- [ ] Boxplotlar yorumlandı
+- [x] Missing value kontrol edildi
+- [x] Outlier analizi yapıldı
+- [x] Dtype bilgileri gösterildi
+- [x] Temel istatistikler çıkarıldı
+- [x] Korelasyon heatmap çizildi
+- [x] Boxplotlar yorumlandı
 
 ## 3. Ön İşleme ve Dönüşüm
 
