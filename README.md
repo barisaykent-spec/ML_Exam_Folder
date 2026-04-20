@@ -1,29 +1,29 @@
 # ML Exam Folder
 
-Bu repo, Makine Ogrenmesi ara sinav odevini adim adim takip etmek ve teslim surecini duzenli tutmak icin olusturuldu.
+Bu repo, Makine Öğrenmesi ara sınav ödevini adım adım takip etmek ve teslim sürecini düzenli tutmak için oluşturuldu.
 
 ## Bu repoda ne var?
 
-- `notebooks/ml_exam_starter.ipynb`: Odevin ana calisma dosyasi
-- `notebooks/01_breast_cancer_baslangic.ipynb`: Veri setini tanimak icin baslangic notebook'u
-- `figures/`: Notebooktan kaydedilecek grafikler
-- `BASIT_KULLANIM_NOTLARI.md`: Temel notebook komutlari icin kisa rehber
-- `CHECKLIST.md`: Odev maddelerini takip etmek icin kontrol listesi
-- `requirements.txt`: Gerekli Python kutuphaneleri
+- `notebooks/ml_exam_starter.ipynb`: Ödevin ana çalışma dosyası
+- `notebooks/01_breast_cancer_baslangic.ipynb`: Veri setini tanımak için başlangıç notebook'u
+- `figures/`: Notebook'tan kaydedilecek grafikler
+- `BASIT_KULLANIM_NOTLARI.md`: Temel notebook komutları için kısa rehber
+- `CHECKLIST.md`: Ödev maddelerini takip etmek için kontrol listesi
+- `requirements.txt`: Gerekli Python kütüphaneleri
 
-## Odevde yapilacak ana basliklar
+## Ödevde yapılacak ana başlıklar
 
-1. Veri setinin yuklenmesi
+1. Veri setinin yüklenmesi
 2. Veri kalite kontrolleri
 3. EDA
 4. Scaling
-5. Train-validation-test ayirma
+5. Train-validation-test ayırma
 6. PCA ve LDA
-7. Modellerin kurulmasi
-8. Validation sonuclarinin karsilastirilmasi
-9. En iyi modelin test performansi
+7. Modellerin kurulması
+8. Validation sonuçlarının karşılaştırılması
+9. En iyi modelin test performansı
 10. SHAP analizi
 
-## Calisma notu
+## Çalışma notu
 
-Bu repo tek seferde bitmis bir proje olarak degil, odevin gelisimini duzenli sekilde gostermek icin kullanilmaktadir.
+Bu repo tek seferde bitmiş bir proje olarak değil, ödevin gelişimini düzenli şekilde göstermek için kullanılmaktadır.
