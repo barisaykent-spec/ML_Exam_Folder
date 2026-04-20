@@ -1,40 +1,40 @@
-# Basit Kullanim Notlari
+# Basit Kullanım Notları
 
-Bu dosya, notebook icinde veri setini ilk kez incelerken en cok kullanacagin temel komutlari ozetler.
+Bu dosya, notebook içinde veri setini ilk kez incelerken en çok kullanacağın temel komutları özetler.
 
 ## En temel komutlar
 
 `X.head()`
-Ilk 5 satiri gosterir.
+İlk 5 satırı gösterir.
 
 `X.shape`
-Tablonun kac satir ve kac sutundan olustugunu verir.
+Tablonun kaç satır ve kaç sütundan oluştuğunu verir.
 
 `X.columns`
 Kolon isimlerini verir.
 
 `list(X.columns)`
-Kolon isimlerini liste halinde daha rahat gormeni saglar.
+Kolon isimlerini liste halinde daha rahat görmeni sağlar.
 
 `X.info()`
-Sutun isimleri, veri tipleri ve eksik veri durumunu toplu gosterir.
+Sütun isimleri, veri tipleri ve eksik veri durumunu toplu gösterir.
 
 `X.dtypes`
 Her kolonun veri tipini verir.
 
 `X.describe().T`
-Sayisal degiskenlerin ozet istatistiklerini daha rahat okunacak sekilde verir.
+Sayısal değişkenlerin özet istatistiklerini daha rahat okunacak şekilde verir.
 
 `y.head()`
-Hedef degiskenin ilk 5 satirini gosterir.
+Hedef değişkenin ilk 5 satırını gösterir.
 
 `dataset.target_names`
-Sinif isimlerini gosterir.
+Sınıf isimlerini gösterir.
 
 `df['target'].value_counts()`
-Hedef siniflarin kac adet oldugunu gosterir.
+Hedef sınıfların kaç adet olduğunu gösterir.
 
-## Baslangic icin onerilen siralama
+## Başlangıç için önerilen sıralama
 
 1. `X.shape`
 2. `X.head()`
@@ -45,8 +45,8 @@ Hedef siniflarin kac adet oldugunu gosterir.
 7. `dataset.target_names`
 8. `df['target'].value_counts()`
 
-## Kisa mantik
+## Kısa mantık
 
-- `X`: ozellikler
-- `y`: hedef degisken
-- `df`: hepsini tek tabloda gormek icin birlestirilmis hali
+- `X`: özellikler
+- `y`: hedef değişken
+- `df`: hepsini tek tabloda görmek için birleştirilmiş hali
