@@ -18,8 +18,8 @@
 
 ## 3. Ön İşleme ve Dönüşüm
 
-- [ ] Scaling yapıldı
-- [ ] Train-validation-test ayrımı yapıldı
+- [x] Scaling yapıldı
+- [x] Train-validation-test ayrımı yapıldı
 - [ ] PCA uygulandı
 - [ ] LDA uygulandı
 
