@@ -13,16 +13,16 @@ Bu repo, Makine Öğrenmesi ara sınav ödevini adım adım takip etmek ve tesli
 
 ## Ödevde yapılacak ana başlıklar
 
-1. Veri setinin yüklenmesi
-2. Veri kalite kontrolleri
-3. EDA
-4. Scaling
-5. Train-validation-test ayırma
-6. PCA ve LDA
-7. Modellerin kurulması
-8. Validation sonuçlarının karşılaştırılması
-9. En iyi modelin test performansı
-10. SHAP analizi
+1. Veri Setinin Yüklenmesi
+2. Veri Seti Kalite Kontrolleri
+3. Keşifsel Veri Analizi (EDA)
+4. Veri Ölçeklendirme (Scaling)
+5. Veri Setinin Bölünmesi
+6. Özellik Seçimi ve Boyut İndirgeme
+7. Makine Öğrenmesi Modellerinin Kurulması
+8. Validation Performanslarının Ölçülmesi
+9. En İyi Modelin Test Üzerinde Değerlendirilmesi
+10. XAI – SHAP Açıklanabilirlik Analizi (Zorunlu)
 
 ## Çalışma notu
 
